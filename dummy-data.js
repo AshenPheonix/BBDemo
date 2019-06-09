@@ -1,4 +1,4 @@
-var data=[
+export const textData=[
   {
     id: "a",
     _id:'1',
@@ -22,7 +22,7 @@ var data=[
   }
 ];
 
-var userData=[
+export const userData=[
   {
     id:'1',
     username:'philzcoffee',
